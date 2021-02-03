@@ -3,11 +3,11 @@
 ### Sentiment Analysis on Stanford Dataset
 
 I have done sentiment analysis on Stanford Sentiment Dataset (https://nlp.stanford.edu/sentiment/treebank.html) 
-•	Used pytreebank which is used for pre-processing the dataset
-•	Used pre trained Glove embedding and Pytext
-•	Used three data augmentation: Backtranslation(google translate), Random deletion, Random swap
-•	Used two layer LSTM and dropout as regularization and Adam optimizer
-•	Trained for 25 epochs
+- Used pytreebank which is used for pre-processing the dataset
+- Used pre trained Glove embedding and Pytext
+- Used three data augmentation: Backtranslation(google translate), Random deletion, Random swap
+- Used two layer LSTM and dropout as regularization and Adam optimizer
+- Trained for 25 epochs
 
 ### Sentiment Analysis on IMDB Dataset
 
